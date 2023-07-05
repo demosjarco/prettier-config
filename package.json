@@ -15,5 +15,8 @@
 	"bugs": {
 		"url": "https://github.com/demosjarco/prettier-config/issues"
 	},
-	"homepage": "https://github.com/demosjarco/prettier-config#readme"
+	"homepage": "https://github.com/demosjarco/prettier-config#readme",
+	"publishConfig": {
+		"access": "public"
+	}
 }
