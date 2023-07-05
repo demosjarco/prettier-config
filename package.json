@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "My personal Prettier config",
 	"main": "index.json",
+	"scripts": {
+		"format": "npx -y prettier@latest --config index.json --write ."
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/demosjarco/prettier-config.git"
